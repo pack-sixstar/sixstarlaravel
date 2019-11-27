@@ -1,0 +1,19 @@
+{
+    "name": "pack/sixlaravel",
+    "description": "v1.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pack-sixstar",
+            "email": "pack@sixstaredu.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Pack\\Sixlaravel\\": "src/"
+        }
+    },
+    "require": {}
+}
